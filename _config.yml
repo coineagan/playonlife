@@ -1,0 +1,9 @@
+title: uhhworld
+
+permalink: pretty
+relative_permalinks: false
+
+collections:
+  articles:
+    output: true
+    permalink: /:path
